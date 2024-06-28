@@ -3,5 +3,28 @@
     "prompt": "^1.3.0",
     "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "exercicios-de-logica",
+  "version": "1.0.0",
+  "description": "Exercícios resolvido na aula de logica para o curso da Softex",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucemilaBonifacio/Exerc-cios-l-gica.git"
+  },
+  "keywords": [
+    "logica",
+    "npm",
+    "node"
+  ],
+  "author": "Lucemila Bonifácio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucemilaBonifacio/Exerc-cios-l-gica/issues"
+  },
+  "homepage": "https://github.com/LucemilaBonifacio/Exerc-cios-l-gica#readme"
 }
